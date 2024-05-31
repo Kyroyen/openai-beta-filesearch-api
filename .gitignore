@@ -1,6 +1,6 @@
 .venv*
 *.pyc
 *.sqlite3
-*.txt
+^(?!requirements).txt$
 *.env
 *testapi.py
