@@ -1,0 +1,6 @@
+.venv*
+*.pyc
+*.sqlite3
+*.txt
+*.env
+*testapi.py
